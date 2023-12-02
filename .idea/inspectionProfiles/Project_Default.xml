@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="FaceMeshDetector" />
+          <option value="person_detection_image.protopath" />
+          <option value="cv2.dnn" />
+          <option value="instance_segmentation_final.frame" />
+          <option value="main.cvtColor" />
+          <option value="cv2.*" />
+          <option value="cv2.bgsegm" />
+          <option value="main.HOGCV" />
+          <option value="main.ouput_path" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
